@@ -1,4 +1,5 @@
 # Recipes
+# for life & fun on master branch
 
 This repository contains recipes for some foods I like.
 
